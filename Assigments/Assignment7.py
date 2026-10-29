@@ -1,9 +1,9 @@
 class Flyer:
 
-    ROLLNO = 69 #global static
+    ROLLNO = 51 #global static
 
     def __init__(self):
-        self.Name = "Chaitnya" #Instance
+        self.Name = "somesh" #Instance
 
     def Fly(self):
         var = 10 #local
